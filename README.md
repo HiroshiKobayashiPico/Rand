@@ -1,0 +1,2 @@
+# Rand
+Random function
